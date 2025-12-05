@@ -1,4 +1,5 @@
-## Issue template for “New challenge solved” (put in `.github/ISSUE_TEMPLATE/solve.md`)
+# Issue template for “New challenge solved” (put in `.github/ISSUE_TEMPLATE/solve.md`)
+
 ```md
 ---
 name: New solved challenge
